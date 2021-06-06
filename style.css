@@ -1,0 +1,52 @@
+body{
+	font-family: 'verdana';
+
+	line-height: 1.5;
+}
+
+.container{
+
+
+	display: flex;
+
+    justify-content: center;
+    padding: 7%;
+    background-color: #808080;
+    
+   
+
+}
+
+
+
+
+.image{
+	width: 700;
+	height: 500;
+
+	position: relative;
+	overflow: hidden;
+}
+
+.img{
+     position: absolute;
+     width: 50%;
+     top: -40%;
+}
+
+.wrapper{
+	padding: 10%;
+    background-color: #000;
+
+
+}
+
+.description{
+	color: #000;
+	background-color: #ffffff;
+}
+.first{
+	color: #ffffff;
+}
+
+
